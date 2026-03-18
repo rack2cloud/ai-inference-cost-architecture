@@ -83,3 +83,41 @@ Execution budgets are not throttles. They are architectural contracts that defin
 Cost observability at the invoice level is not observability. By the time a spend anomaly appears on a monthly invoice, the architectural decision that caused it has been running in production for weeks.
 
 Production inference cost observability requires measurement at the request level:
+Per-request attributes to capture:
+
+model_id
+input_tokens
+output_tokens
+cost_usd (calculated at request time)
+workflow_id
+request_class
+cache_hit (boolean)
+latency_ms
+timestamp
+
+
+Aggregate from this foundation:
+- Cost per workflow per day
+- Cost per model tier per day
+- P50 / P95 / P99 cost per request class
+- Cache hit rate by request class
+- Token budget utilization rate
+
+---
+
+## Non-Goals
+
+- LLM application development tutorials
+- Prompt engineering guides
+- Cloud provider pricing comparisons
+- Vendor benchmark analysis
+
+*This is a production systems architecture and cost engineering framework.*
+
+---
+
+## Support
+
+If this framework helped you design a more cost-deterministic inference system, please star the repository.
+
+Architectural frameworks maintained by **[Rack2Cloud](https://www.rack2cloud.com)** — deterministic engineering guides for hybrid-cloud architects.
