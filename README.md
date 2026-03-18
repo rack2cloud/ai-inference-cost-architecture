@@ -42,6 +42,8 @@ This framework maps the cost physics of production inference systems and the dec
 
 ## System Model
 
+![AI Inference Cost Architecture — The Four Cost Levers](https://www.rack2cloud.com/wp-content/uploads/2026/03/ai-inference-cost-four-levers-architecture.jpg)
+
 **The 4 Cost Levers in Production Inference:**
 
 1. **Model Selection** — The choice of model determines the baseline cost per token. Routing every request to the largest available model when a smaller one is sufficient is the single highest-impact cost error in production inference systems.
