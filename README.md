@@ -15,8 +15,7 @@ This repository contains the decision frameworks, cost modeling logic, and obser
 **Part 1: AI Inference Is the New Egress — Why Your Inference Bill Is an Architecture Problem**
 👉 [https://www.rack2cloud.com/ai-inference-cost-architecture/](https://www.rack2cloud.com/ai-inference-cost-architecture/)
 
-**Part 2: Execution Budgets for Autonomous Systems** — Coming soon
-👉 [https://www.rack2cloud.com/post-broadcom-series/](https://www.rack2cloud.com/post-broadcom-series/)
+**Part 2: Your AI System Doesn’t Have a Cost Problem. It Has No Runtime Limits.** — 👉 [https://www.rack2cloud.com/ai-inference-execution-budgets/](https://www.rack2cloud.com/ai-inference-execution-budgets/)
 
 **Part 3: Cost-Aware Model Routing in Production** — Coming soon
 
