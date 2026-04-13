@@ -19,7 +19,7 @@ This repository contains the decision frameworks, cost modeling logic, and obser
 
 **Part 3: Cost-Aware Model Routing in Production** — 👉 [https://www.rack2cloud.com/ai-inference-cost-model-routing/](https://www.rack2cloud.com/ai-inference-cost-model-routing/)
 
-**Part 4: Inference Observability — What to Track Before the Bill Arrives** — 👉 [https://www.rack2cloud.com/ai-inference-observability/](https://www.rack2cloud.com/ai-inference-observability/)
+**Part 4: Inference Observability — Why You Don't See the Cost Spike Until It's Too Late** — 👉 [https://www.rack2cloud.com/ai-inference-observability/](https://www.rack2cloud.com/ai-inference-observability/)
 
 **Download the AI Inference Cost Architecture Playbook:**
 👉 [https://www.rack2cloud.com/architecture-failure-playbooks/](https://www.rack2cloud.com/architecture-failure-playbooks/)
