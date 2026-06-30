@@ -268,5 +268,4 @@ This repository is maintained against the Rack2Cloud [Canonical Architecture Spe
 
 If this framework helped you design a more cost-deterministic inference system, please star the repository.
 
-*Last updated: 06-30-2026*
-*Maintained by [Rack2Cloud](https://www.rack2cloud.com)*
+Architectural frameworks maintained byy [Rack2Cloud](https://www.rack2cloud.com)
